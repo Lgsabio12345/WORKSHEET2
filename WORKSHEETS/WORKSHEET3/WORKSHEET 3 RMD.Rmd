@@ -51,7 +51,7 @@ last
 ```
 e. Produce a vector that contains letters between 15 to 24 letters in lowercase.
 ```{r, vector = TRUE}
-between <- letters[15:24]
+between <- letters[16:23]
 between
 ```
 \hfill\break

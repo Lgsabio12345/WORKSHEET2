@@ -22,7 +22,7 @@ vowels
 last <- letters[22:26]
 last
 #e. Produce a vector that contains letters between 15 to 24 letters in lowercase.
-between <- letters[15:24]
+between <- letters[16:23]
 between
 
 #2. Create a vector with the average temperatures in April for Tuguegarao City, Manila,
