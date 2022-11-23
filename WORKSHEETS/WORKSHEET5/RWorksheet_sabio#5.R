@@ -91,6 +91,7 @@ dfIris
 
 barplot(height = as.matrix(dfIris),main = "Iris Data",
          ylab = "Mean Scores", 
+          xlab = "Characteristics",
          beside =TRUE, col = rainbow(3)
         )
  
