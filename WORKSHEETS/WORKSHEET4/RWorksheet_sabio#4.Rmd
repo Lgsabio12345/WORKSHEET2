@@ -99,6 +99,6 @@ Import
 ```
 b. View the dataset. Write the code and its result.
 ```{r, vector = TRUE}
-# View(import_march_csv)
+View(import_march_csv)
 
 ```
