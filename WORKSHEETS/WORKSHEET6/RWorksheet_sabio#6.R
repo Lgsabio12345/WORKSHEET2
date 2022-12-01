@@ -28,7 +28,6 @@ manUnique
 
 #b. Graph the result by using plot() and ggplot(). Write the codes and its result.
 plot(manUnique)
-
 ggplot(manUnique, aes(x = Model, y = Counts )) + geom_point(color='blue')
 
 #3. Same dataset will be used. You are going to show the relationship of the model 
